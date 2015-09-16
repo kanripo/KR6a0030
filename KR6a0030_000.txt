@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 薩多酥哩踰捺野經
+#+DATE: 2015-08-30 19:29:20.060580
+#+PROPERTY: JUAN 0
